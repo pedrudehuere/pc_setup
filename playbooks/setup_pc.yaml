@@ -1,0 +1,6 @@
+---
+
+- name: Setup PC
+  hosts: localhost
+  roles:
+    - 01_setup_vim
