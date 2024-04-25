@@ -27,5 +27,6 @@ call plug#begin()
 
 " Auto format source code
 Plug 'vim-autoformat/vim-autoformat'
+Plug 'powerman/vim-plugin-AnsiEsc'
 
 call plug#end()
